@@ -31,6 +31,7 @@ a concice theme :)
 - ⚡️ [Mermaid Support](https://mermaid-js.github.io/mermaid)
 - 🖼️ [Fancybox Support](https://fancyapps.com/docs/ui/fancybox)
 - 🦜 [Giscus Support](https://giscus.app/zh-CN)
+- 🦜 [Waline Support](https://waline.js.org/)
 - 📊 [ECharts Support](https://echarts.apache.org/)
 
 ## Installation
