@@ -1,18 +1,22 @@
 # Header
 nav:
-  Posts: /archives
+  Home: /
+  Archives: /archives
+  About: /about
+  Friends: /links
+  # 追番: /bangumi
   # Categories: /category
   # Tags: /tag
 
 # favicon
-favicon: /favicon.png
+favicon: 
 
 # logo
-logo: /images/logo.svg
+logo: 
 
 # links
 links:
-  Github: https://github.com/xbmlz
+  Github: https://github.com/Soulter
   # ZhiHu:
   # Twitter:
   # Weibo:
@@ -37,7 +41,7 @@ busuanzi: true
 mermaid:
   enable: true
   # Available themes: default | dark | forest | neutral
-  theme: default
+  theme: neutral
 
 # giscus
 giscus:
@@ -48,9 +52,14 @@ giscus:
   category_id:
   mapping:
 
+# waline
+waline:
+  enable: false
+  serverURL: 
+
 # maple
 maple:
-  enable: true
+  enable: false
   # fall leaf count
   count: 10
   # 0-1
