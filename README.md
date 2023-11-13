@@ -3,7 +3,7 @@
 </p>
 
 <p align='center'>
-a concice theme :)
+a concise Hexo theme :)
 </p>
 
 <br>
